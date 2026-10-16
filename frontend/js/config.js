@@ -7,8 +7,8 @@
  */
 
 const CONFIG = {
-  // Replace this URL after deploying your backend to Render
-  RENDER_BACKEND_URL: 'https://auditai-backend.onrender.com',
+  // Actual live Render deployment URL
+  RENDER_BACKEND_URL: 'https://aiml-audit-project.onrender.com',
 
   // Dynamic API Base URL resolver
   get API_BASE_URL() {
